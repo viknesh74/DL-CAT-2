@@ -4,7 +4,6 @@ Project Overview
 This project focuses on predicting Amazon product ratings using product information and customer review text. It uses a deep learning model built with TensorFlow and Keras to learn patterns from review text, product prices, discounts, and product categories.
 
 The project is implemented in Python using Google Colab and the Amazon Sales Dataset available on Kaggle.
-
 Objectives
 Load and preprocess the Amazon product dataset.
 Handle missing values, duplicate records, and inconsistent data types.
